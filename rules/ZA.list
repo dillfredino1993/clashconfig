@@ -1,5 +1,11 @@
 #DSTV.COM
-DOMAIN-KEYWORD,dstv.com
+DOMAIN-SUFFIX,dstv.com
 ######################################################
 #SHOWMAX.COM
 DOMAIN-KEYWORD,showmax.com
+DOMAIN,log.showmax.com
+DOMAIN,secure.showmax.com
+DOMAIN,api.showmax.com
+DOMAIN,www.showmax.com
+DOMAIN,showmax.com
+DOMAIN,*.showmax.com
