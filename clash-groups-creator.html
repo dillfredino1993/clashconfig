@@ -4,7 +4,7 @@
 <body>
 <h1>Clash subscription groups generator</h1>
 <h3>Version 0.1 Alpha</h3>
-<!--input type="text" id="ori_sub" placeholder="Paste here your clash subscription" size="100%"/ -->
+<!--input type="text" id="ori_sub" placeholder="Paste here your rrrrrr clash subscription" size="100%"/ -->
 <p>Your Clash subscription:
 <br />
 <textarea rows = "5" cols = "100"  placeholder="Paste here your clash subscription" id="ori_sub" > </textarea>
@@ -24,24 +24,6 @@
 function subgen_func() {
   ori_sub = document.getElementById("ori_sub").value;
   sub = "https://api.wcc.best/sub?target=clash&new_name=true&url=ORI_SUB_HERE&insert=false&config=https://raw.githubusercontent.com/dillfredino1993/clashconfig/main/ini/damian-main-conf.ini&emoji=true&list=false&udp=true&tfo=false&scv=false&fdn=false&sort=true&emoji=true&list=false&udp=true&tfo=false&scv=false&fdn=false&sort=true";
-  sub = sub.replace("ORI_SUB_HERE", ori_sub)
-  document.getElementById("result").value = sub;
-  var copyText = document.getElementById("result");
-
-  /* Select the text field */
-  copyText.select();
-  copyText.setSelectionRange(0, 99999); /* For mobile devices */
-
-  /* Copy the text inside the text field */
-  document.execCommand("copy");
-
-  /* Alert the copied text */
-  alert("Sub copied to your clipboard")
-}
-</script>
-</body>
-</html>
-
   sub = sub.replace("ORI_SUB_HERE", ori_sub)
   document.getElementById("result").value = sub;
   var copyText = document.getElementById("result");
