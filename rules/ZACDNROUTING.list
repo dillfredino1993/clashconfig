@@ -1,4 +1,4 @@
 #SHOWMAX/DSTV CDN ROUTING
 
 DOMAIN-KEYWORD,napafrica.cdn.showmax.com
-r-live-cache.akamaized.net
+DOMAIN-KEYWORD,r-live-cache.akamaized.net
