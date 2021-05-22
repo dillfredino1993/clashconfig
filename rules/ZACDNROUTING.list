@@ -1,5 +1,5 @@
 #SHOWMAX/DSTV CDN ROUTING
 
-DOMAIN,za-jnbteraco-01-napafrica.cdn.showmax.com
-DOMAIN,r-live-cache.akamaized.net
-DOMAIN,showmax.akamaized.net
+DOMAIN-KEYWORD,za-jnbteraco-01-napafrica.cdn.showmax.com
+DOMAIN-KEYWORD,r-live-cache.akamaized.net
+DOMAIN-KEYWORD,showmax.akamaized.net
