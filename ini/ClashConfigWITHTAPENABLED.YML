@@ -45,6 +45,12 @@ external-controller: '127.0.0.1:9090'
 # RESTful API 的口令 (可选)
 # secret: ""
 
+# 实验性功能
+experimental:
+  interface-name: WLAN # WLAN as physical network adapter
+  ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
+  # interface-name: en0 # outbound interface name
+
  #dns:
   #enable: true # 是否启用dns false
   #ipv6: false
@@ -84,11 +90,7 @@ external-controller: '127.0.0.1:9090'
    nameserver:
       - 223.5.5.5   
 
-# 实验性功能
-experimental:
-  interface-name: WLAN # WLAN as physical network adapter
-  ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
-  # interface-name: en0 # outbound interface name
+
  
 # 本地 SOCKS5 / HTTP(S) 服务认证
 # authentication:
