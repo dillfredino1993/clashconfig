@@ -2,15 +2,6 @@
 # 配置文件需要放置在 $HOME/.config/clash/config.yml
 # 或者运行目录下的config.yml
 #---------------------------------------------------#
-#TUN
-tun:
-  enable: true
-  stack: system # or gvisor
-  macOS-auto-route: true
-  macOS-auto-detect-interface: true
-  dns-hijack:
-    - tcp://8.8.8.8:53
-    
 # 混合端口 HTTP和SOCKS5用一个端口
 mixed-port: 7890
 
@@ -57,6 +48,7 @@ external-controller: '127.0.0.1:9090'
 # 实验性功能
 experimental:
   ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
+  interface-name: WLAN # WLAN as physical network adapter
   # interface-name: en0 # outbound interface name
  
 # 本地 SOCKS5 / HTTP(S) 服务认证
@@ -102,6 +94,13 @@ experimental:
      #geoip: true # 默认
      #ipcidr: # 在这个网段内的 IP 地址会被考虑为被污染的 IP
        #- 240.0.0.0/4
+  dns:
+   enable: true
+   enhanced-mode: fake-ip # or redir-host
+   listen: 0.0.0.0:53
+   nameserver:
+      - 8.8.8.8   
+
 
 # 1. clash DNS 请求逻辑：
 #   (1) 当访问一个域名时， nameserver 与 fallback 列表内的所有服务器并发请求，得到域名对应的 IP 地址。
