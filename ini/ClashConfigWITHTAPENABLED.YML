@@ -47,7 +47,6 @@ external-controller: '127.0.0.1:9090'
 
 # 实验性功能
 experimental:
-  interface-name: WLAN # WLAN as physical network adapter
   ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
   # interface-name: en0 # outbound interface name
 
@@ -82,16 +81,7 @@ experimental:
      #geoip: true # 默认
      #ipcidr: # 在这个网段内的 IP 地址会被考虑为被污染的 IP
        #- 240.0.0.0/4
-  
-  dns:
-   enable: true
-   enhanced-mode: fake-ip # or redir-host
-   listen: 0.0.0.0:53
-   nameserver:
-      - 223.5.5.5   
-
-
- 
+       
 # 本地 SOCKS5 / HTTP(S) 服务认证
 # authentication:
 #  - "user1:pass1"
@@ -163,11 +153,11 @@ cfw-latency-url: http://www.gstatic.com/generate_204
     #interface-name: WLAN
     
   cfw-profile-mixin:
-  dns:
+   dns:
     enable: true
     listen: :53
     enhanced-mode: fake-ip
-   nameserver:
+    nameserver:
     - 223.5.5.5 # 阿里DNS
     - 180.76.76.76 # 百度DNS
     - 119.29.29.29 # 腾讯DNS
