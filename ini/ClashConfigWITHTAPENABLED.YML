@@ -2,13 +2,14 @@
 # 配置文件需要放置在 $HOME/.config/clash/config.yml
 # 或者运行目录下的config.yml
 #---------------------------------------------------#
-  tun:
+dns:
    enable: true
-   stack: gvisor # only gvisor
-   dns-hijack:
-    - 198.18.0.2:53
-   macOS-auto-route: true
-   interface-name: true  
+   enhanced-mode: fake-ip # or redir-host
+   listen: 0.0.0.0:53
+   nameserver:
+      - 223.5.5.5
+experimental:
+  interface-name: WLAN # WLAN as physical network adapter
 # 混合端口 HTTP和SOCKS5用一个端口
 mixed-port: 7890
 
@@ -53,8 +54,8 @@ external-controller: '127.0.0.1:9090'
 # secret: ""
 
 # 实验性功能
-experimental:
-  ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
+#experimental:
+  #ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
   # interface-name: en0 # outbound interface name
 
  #dns:
