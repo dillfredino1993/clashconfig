@@ -48,9 +48,9 @@ external-controller: '127.0.0.1:9090'
 # 实验性功能
 experimental:
   ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
-  # interface-name: en0 # outbound interface name
   interface-name: WLAN # WLAN as physical network adapter
-
+  # interface-name: en0 # outbound interface name
+ 
 # 本地 SOCKS5 / HTTP(S) 服务认证
 # authentication:
 #  - "user1:pass1"
