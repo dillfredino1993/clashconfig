@@ -88,16 +88,7 @@ experimental:
   enhanced-mode: fake-ip
   nameserver:
     - 114.114.114.114
-    
-  tun:
-   enable: true
-   stack: gvisor # only gvisor
-   dns-hijack:
-    - 198.18.0.2:53
-   macOS-auto-route: true
-   macOS-auto-detect-interface: true  
-       
-       
+          
 # 本地 SOCKS5 / HTTP(S) 服务认证
 # authentication:
 #  - "user1:pass1"
