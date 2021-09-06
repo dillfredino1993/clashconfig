@@ -2,14 +2,7 @@
 DOMAIN-SUFFIX,dstv.com
 DOMAIN-KEYWORD,r-live-cache.akamaized.net
 IP-CIDR,52.85.214.107/24,no-resolve 
-IP-CIDR,151.101.65.208/24,no-resolve
-IP-CIDR,52.43.10.86/24,no-resolve
-IP-CIDR,172.217.170.14/24,no-resolve
-IP-CIDR,54.189.237.153/24,no-resolve
-IP-CIDR,216.58.233.142/24,no-resolve
-IP-CIDR,54.71.228.147/24,no-resolve
-IP-CIDR,197.80.130.112/24,no-resolve
-
+IP-CIDR,197.80.130.112/24,no-resolve 
 
 ######################################################
 #SHOWMAX.COM
