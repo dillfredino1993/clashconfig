@@ -1,7 +1,11 @@
 DOMAIN-KEYWORD,netflix.com
 DOMAIN-KEYWORD,nflxvideo.com
-DOMAIN-KEYWORD,NFLXSO.NET
+DOMAIN-KEYWORD,nflxso.net
 DOMAIN-SUFFIX,oca.nflxvideo.net
 DOMAIN-SUFFIX,ichnaea-web.netflix.com
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,ftl.netflix.com
+DOMAIN-SUFFIX,oca-api.netflix.com
+DOMAIN-SUFFIX,1.nflxso.net
+DOMAIN-SUFFIX,cloud.netflix.com
+DOMAIN-SUFFIX,appboot.netflix.com
