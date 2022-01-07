@@ -1,12 +1,6 @@
 #DSTV.COM
 DOMAIN-SUFFIX,dstv.com
 DOMAIN-KEYWORD,r-live-cache.akamaized.net
-DOMAIN-SUFFIX,videoplaza.tv,REJECT
-DOMAIN-KEYWORD,appboycdn.com,REJECT
-DOMAIN-KEYWORD,b2d7ba82-21e5-456c-bc98-05c7e0cd93de.edge.permutive.app,REJECT
-DOMAIN-KEYWORD,cdn.segment.com,REJECT
-DOMAIN-KEYWORD,bitmovin,REJECT
-DOMAIN-SUFFIX,betterttv.net,REJECT
 DOMAIN-SUFFIX,sdk.iad-01.braze.com
 IP-CIDR,52.85.214.107/24,no-resolve 
 IP-CIDR,197.80.130.112/24,no-resolve 
