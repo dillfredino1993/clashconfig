@@ -1,3 +1,5 @@
 play.google.com
 freebitco.in
 honeygain.me
+pipeflare.io
+shrinke.me
