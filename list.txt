@@ -6,3 +6,106 @@ shrinke.me
 earnapp.com
 current.us
 blogspot.com
+www.minijobwork.com###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+www.google.com###pop-no > div
+
+www.google.com###pop-no > div
+
+www.google.com###pop-no > div
+
+ayelads.xyz###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+www.google.com###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+www.minijobwork.com###pop-no
+
+www.google.com###pop-no
+
+www.google.com###pop-no
+
+www.google.com###pop-no
+
+ad.a-ads.com###pop-no
+
+ayelads.xyz###pop-no
+
+www.google.com###pop-no
+
+ad.a-ads.com###pop-no
+
+ad.a-ads.com###pop-no
+
+ad.a-ads.com###pop-no
+
+ad.a-ads.com###pop-no
+
+www.google.com###pop-no > div
+
+ayelads.xyz###pop-no > div
+
+www.minijobwork.com###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+www.google.com###pop-no > div
+
+www.google.com###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+ad.a-ads.com###pop-no > div
+
+www.google.com###pop-no > div
+
+www.minijobwork.com##[src*="/uploads/787be7b15862cf.gif"]
+
+www.google.com##[src*="/uploads/787be7b15862cf.gif"]
+
+www.google.com##[src*="/uploads/787be7b15862cf.gif"]
+
+www.minijobwork.com##.navbar-brand
+
+www.minijobwork.com##footer#footer-section:nth-of-type(2) > .container.template.pop > .row > .col-md-8 > div
+
+www.minijobwork.com##footer#footer-section > .container.template.pop > div.row > div.col-md-3
+
+www.minijobwork.com##.cookie-class > span
+
+www.minijobwork.com##footer#footer-section:nth-of-type(1) > .container.template.pop
+
+www.minijobwork.com##.row.py-4 > .col-md-8 > div.row:nth-of-type(1) > div.col-md-12:nth-of-type(1) > div.personal_info.u:nth-of-type(1) > div.adsby:nth-of-type(1) > .personal_info.u > .adsby > div > [href*="https://minijobwork.com/baner_ptc_ad"]
+
+www.minijobwork.com##.col-md-12.u
+
+www.minijobwork.com##div.col-md-12:nth-of-type(4) > div.personal_info.u:nth-of-type(1) > div.adsby:nth-of-type(1) > .personal_info.u > .adsby > div > [href*="https://minijobwork.com/baner_ptc_ad"]
+
+www.minijobwork.com##[src*="https://minijobwork.com/ads?ad_id=563960"]
+
+www.google.com##[src*="https://minijobwork.com/ads?ad_id=563960"]
+
+www.google.com##[src*="https://minijobwork.com/ads?ad_id=563960"]
+
+www.minijobwork.com##[src*="https://minijobwork.com/ads?ad_id=563960"]
+
+www.minijobwork.com##[src*="/images/ads/a017725ed83c71.gif"]
+
+www.google.com##[src*="/images/ads/a017725ed83c71.gif"]
+
+www.minijobwork.com##[src*="/images/ads/a017725ed83c71.gif"]
+
+www.google.com##[src*="/images/ads/a017725ed83c71.gif"]
