@@ -110,4 +110,4 @@ www.minijobwork.com##[src*="/images/ads/a017725ed83c71.gif"]
 
 www.google.com##[src*="/images/ads/a017725ed83c71.gif"]
 www.minijobwork.com##div.col-md-2:nth-of-type(3)
-www.minijobwork.com##[src*="https://www.google.com/recaptcha/api2/bframe?hl=en&v=M-QqaF9xk6BpjLH22uHZRhXt&k=6Lelh1AaAAAAALcNyYyPz3NqWP_y6aqj6KdDpozW"]
+
